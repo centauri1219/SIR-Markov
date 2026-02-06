@@ -308,23 +308,6 @@ Simulate malware spread through computer networks to optimize patching prioritie
 
 ---
 
-## 📸 Screenshots
-
-### Python Simulation Output
-- Vaccination strategy comparison charts
-- Spectral radius vs vaccination level
-- Animated disease spread GIF
-
-### React Web App
-- Interactive network with color-coded nodes
-- Real-time statistics dashboard
-- Timeline charts for S, I, R populations
-- Vaccination strategy controls
-
-*(Add actual screenshots here when available)*
-
----
-
 ## 📊 Example Results
 
 ```
